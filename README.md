@@ -18,5 +18,3 @@ src="https://img.shields.io/github/followers/aloha-v2?logo=github&style=for-the-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/aloha-v2"><img src="https://github-readme-stats.vercel.app/api?username=aloha-v2&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ef4444&icon_color=ffffff&bg_color=27272a&hide_border=true&show_icons=true" alt="aloha-v2's GitHub stats" /></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?aloha-v2=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
