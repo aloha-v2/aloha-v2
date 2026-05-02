@@ -7,6 +7,8 @@
     "PlayerTickMixin",
     "ClientTickMixin",
     "VelocityMixin",
+    "VelocityPacketMixin",
+    "JoinFixMixin",
     "HudMixin",
     "KeyboardMixin"
   ],
