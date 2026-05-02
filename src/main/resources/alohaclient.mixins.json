@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "com.alohaclient.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "TitleScreenMixin",
+    "PlayerTickMixin",
+    "ClientTickMixin",
+    "VelocityMixin",
+    "HudMixin",
+    "KeyboardMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
